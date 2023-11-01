@@ -2,7 +2,7 @@
   "name": "package.json",
   "version": "1.2.1",
   "description": "Senchola Bootstrap Assessment",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "deploy":"gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
