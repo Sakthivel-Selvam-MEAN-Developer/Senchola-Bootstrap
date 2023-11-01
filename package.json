@@ -4,6 +4,7 @@
   "description": "Senchola Bootstrap Assessment",
   "main": "index.html",
   "scripts": {
+    "deploy":"gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -11,6 +12,7 @@
   ],
   "author": "Sakthivel Selvam",
   "license": "ISC",
+  "homepage":"https://Sakthivel-Selvam-MEAN-Developer.io/Senchola-Bootstrap",
   "dependencies": {
     "bootstrap": "^5.3.2",
     "gh-pages": "^6.0.0"
